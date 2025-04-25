@@ -1,0 +1,71 @@
+claim_id,patient_id,disease_name,SUB_ID,Claim_Or_Rejected,claim_type,claim_amount,claim_date
+0,187158,Galactosemia,SUBID1000,N,claims of value,79874,1949-03-14
+1,112766,Bladder cancer,SUBID10001,NaN,claims of policy,151142,1970-03-16
+2,199252,Kidney cancer,SUBID10002,NaN,claims of value,59924,2008-02-03
+3,133424,Suicide,SUBID10003,NaN,claims of fact,143120,1995-02-08
+4,172579,Food allergy,SUBID10004,Y,claims of value,168634,1967-05-23
+5,171320,Whiplash,SUBID10005,NaN,claims of policy,64840,1991-10-04
+6,107794,Sunbathing,SUBID1006,N,claims of fact,26800,1991-03-26
+7,130339,Drug consumption,SUBID10007,NaN,claims of value,177186,1946-09-05
+8,110377,Dengue,SUBID10008,N,claims of fact,141123,1966-06-20
+9,149367,Head banging,SUBID10009,N,claims of value,88540,1945-12-29
+10,156168,Fanconi anaemia,SUBID1010,N,claims of value,29150,1999-01-25
+11,114241,Breast cancer,SUBID10011,Y,claims of value,40897,1975-02-08
+12,146382,Anthrax,SUBID10012,NaN,claims of value,75983,1985-02-12
+13,132748,Cystic fibrosis,SUBID10013,NaN,claims of fact,192340,2014-07-30
+14,167340,Galactosemia,SUBID10014,N,claims of value,118628,2003-12-18
+15,135184,Dengue,SUBID10015,Y,claims of value,100224,1986-08-02
+16,179662,Smallpox,SUBID10016,N,claims of value,42860,1955-01-20
+17,184479,Pollen allergy,SUBID10017,N,claims of policy,161786,2017-06-01
+18,156988,Breast cancer,SUBID10018,NaN,claims of fact,66129,1956-01-04
+19,132870,Glaucoma,SUBID10019,NaN,claims of value,182552,1948-07-26
+20,148137,Pet allergy,SUBID1020,Y,claims of value,105982,1984-04-10
+21,113280,Rett Syndrome,SUBID1021,NaN,claims of fact,55761,1953-06-24
+22,134184,Flu,SUBID10022,Y,claims of value,34771,1948-05-23
+23,122592,Cholera,SUBID10023,N,claims of value,83642,1945-03-15
+24,154439,Scurvy,SUBID10024,NaN,claims of policy,49129,2013-08-04
+25,117945,Glaucoma,SUBID10025,N,claims of fact,36524,1976-08-24
+26,189996,Measles,SUBID10026,NaN,claims of value,192381,1966-08-30
+27,146540,Scurvy,SUBID10027,N,claims of fact,188520,2008-08-26
+28,156434,Flu,SUBID10028,N,claims of policy,122806,1958-08-05
+29,197352,Pet allergy,SUBID10029,NaN,claims of fact,81651,2008-02-01
+30,138778,Lymphedema,SUBID1030,NaN,claims of fact,19899,1976-09-08
+31,162665,Alcohol consumption,SUBID10031,N,claims of fact,42968,1976-01-25
+32,197503,Stroke,SUBID1032,N,claims of policy,191267,1988-12-18
+33,113476,Galactosemia,SUBID10033,NaN,claims of value,161199,2019-11-17
+34,195876,Vertigo,SUBID1034,N,claims of fact,26221,2008-08-10
+35,150189,Measles,SUBID10035,Y,claims of value,28542,1973-03-25
+36,138861,Heart Attack,SUBID1036,NaN,claims of policy,62985,1948-09-27
+37,146555,Phenylketonuria,SUBID1037,NaN,claims of policy,19596,1972-10-11
+38,199114,Phenylketonuria,SUBID1038,Y,claims of fact,25171,1979-03-11
+39,105758,Head banging,SUBID10039,NaN,claims of fact,108526,1960-05-09
+40,109251,Choking,SUBID10040,Y,claims of value,116937,1998-09-26
+41,156223,Fanconi anaemia,SUBID1041,NaN,claims of fact,118452,1955-10-11
+42,108576,Stroke,SUBID10042,NaN,claims of fact,188727,1989-10-28
+43,132947,Anaemia,SUBID1043,N,claims of value,186502,1962-09-18
+44,148674,Diabetes,SUBID1044,Y,claims of policy,173600,1959-10-19
+45,133107,Lymphedema,SUBID1045,Y,claims of policy,160739,1952-07-29
+46,193137,Phenylketonuria,SUBID10046,N,claims of fact,25957,2003-11-29
+47,196369,Choking,SUBID1047,NaN,claims of value,164159,1953-06-07
+48,109342,Asthma,SUBID10048,Y,claims of value,125727,1947-04-11
+49,121783,Bladder cancer,SUBID10049,NaN,claims of fact,159815,1983-06-20
+50,197441,Lung cancer,SUBID10050,NaN,claims of policy,156557,1972-06-19
+51,194166,Colorectal cancer,SUBID10051,N,claims of value,193801,1969-02-01
+52,110690,Food Poisoning,SUBID10052,N,claims of policy,130339,1959-07-22
+53,180709,Anthrax,SUBID10053,Y,claims of fact,87588,2008-10-17
+54,119268,Mold allergy,SUBID10054,NaN,claims of policy,27404,1965-01-09
+55,163148,Beriberi,SUBID10055,Y,claims of policy,44986,2007-06-22
+56,118913,Malaria,SUBID10056,NaN,claims of fact,124734,1974-12-21
+57,167423,Asthma,SUBID10057,Y,claims of policy,161497,1974-12-28
+58,141703,Fractures,SUBID1058,Y,claims of policy,20770,1967-08-28
+59,173518,Malaria,SUBID10059,NaN,claims of policy,171729,1983-08-26
+60,140394,Anthrax,SUBID10060,NaN,claims of policy,139755,2004-01-20
+61,164524,Mold allergy,SUBID10061,NaN,claims of fact,74276,1991-03-16
+62,198182,Head banging,SUBID1062,Y,claims of value,71703,1945-10-24
+63,115143,Drug consumption,SUBID1063,Y,claims of policy,158255,2014-01-10
+64,156364,Cholera,SUBID10064,N,claims of policy,154594,2015-07-08
+65,191132,Glaucoma,SUBID1065,Y,claims of policy,81980,1969-05-31
+66,105686,Hepatitis,SUBID10066,N,claims of fact,13667,1957-09-12
+67,160140,Rett Syndrome,SUBID1067,N,claims of value,109433,1944-12-25
+68,114252,Diabetes,SUBID10068,NaN,claims of policy,152901,1948-02-13
+69,188365,Pet allergy,SUBID10069,NaN,claims of fact,99313,1994-08-25
