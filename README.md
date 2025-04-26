@@ -1,16 +1,16 @@
 # Healthcare Big Data Analytics Project
 
-## 🏥 Project Description
+##  Project Description
 Healthcare insurance companies face challenges in understanding customer behavior, predicting future risks, and maximizing revenues. In this project, we leverage Big Data concepts to analyze healthcare claims, patient demographics, and disease patterns to help an insurance company improve their business strategies.
 
 We performed full data cleaning, exploratory analysis, and designed example Spark and Hive scripts to simulate a real-world Big Data ecosystem.
 
-## 👥 Authors
+##  Authors
 * Felix Luca Krebs (2470475)
 * MD Kamruzzaman Russel (2470478)
 * Justus Izuchukwu Onuh (2470477)
 
-## ⚙️ System Requirements
+##  System Requirements
 
 | Requirement | Details |
 |-------------|---------|
@@ -21,7 +21,7 @@ We performed full data cleaning, exploratory analysis, and designed example Spar
 
 ⚡ Note: For the assignment, setting up Spark and Hive is optional. We provided sample scripts under `spark_jobs/` and `hive_queries/` folders.
 
-## 🧰 Python Libraries Used
+##  Python Libraries Used
 * pandas
 * matplotlib
 * seaborn
@@ -31,7 +31,7 @@ We performed full data cleaning, exploratory analysis, and designed example Spar
 * sqlalchemy
 * pyhive
 
-## 🚀 How to Set Up and Run the Project
+## How to Set Up and Run the Project
 
 1. **Clone the GitHub Repository:**
 ```bash
@@ -70,7 +70,7 @@ If Hive is installed, execute:
 hive -f hive_queries/claim_summary.hql
 ```
 
-## 🗂️ Project Structure
+##  Project Structure
 ```
 healthcare-bigdata-analytics/
 ├── data/
@@ -95,6 +95,6 @@ healthcare-bigdata-analytics/
 └── .gitignore
 ```
 
-## 📋 Notes
+##  Notes
 * **Dataset Source**: 
 * **Reference Repository**: HELTHCARE-SYSTEM by Tejas Bansal
